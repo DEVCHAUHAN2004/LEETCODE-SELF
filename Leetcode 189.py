@@ -19,7 +19,7 @@
 # rotate 2 steps to the right: [3,99,-1,-100]
 
 class Solution:
-    def rotate(self, nums: List[int], k: int) -> None:
+    def rotate(self, nums, k: int) -> None:
         """
         Do not return anything, modify nums in-place instead.
         """
